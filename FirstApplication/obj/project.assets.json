@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Bonny\\.nuget\\packages\\": {}
+    "C:\\Users\\BONNY\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#tutorial\\FirstApplication\\FirstApplication.csproj",
+      "projectUniqueName": "D:\\C Sharp\\C-Sharp-\\FirstApplication\\FirstApplication.csproj",
       "projectName": "FirstApplication",
-      "projectPath": "D:\\C#tutorial\\FirstApplication\\FirstApplication.csproj",
-      "packagesPath": "C:\\Users\\Bonny\\.nuget\\packages\\",
-      "outputPath": "D:\\C#tutorial\\FirstApplication\\obj\\",
+      "projectPath": "D:\\C Sharp\\C-Sharp-\\FirstApplication\\FirstApplication.csproj",
+      "packagesPath": "C:\\Users\\BONNY\\.nuget\\packages\\",
+      "outputPath": "D:\\C Sharp\\C-Sharp-\\FirstApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Bonny\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\BONNY\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"

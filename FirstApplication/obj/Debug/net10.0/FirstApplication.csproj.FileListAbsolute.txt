@@ -12,3 +12,18 @@ D:\C#tutorial\FirstApplication\obj\Debug\net10.0\refint\FirstApplication.dll
 D:\C#tutorial\FirstApplication\obj\Debug\net10.0\FirstApplication.pdb
 D:\C#tutorial\FirstApplication\obj\Debug\net10.0\FirstApplication.genruntimeconfig.cache
 D:\C#tutorial\FirstApplication\obj\Debug\net10.0\ref\FirstApplication.dll
+D:\C Sharp\C-Sharp-\FirstApplication\bin\Debug\net10.0\FirstApplication.exe
+D:\C Sharp\C-Sharp-\FirstApplication\bin\Debug\net10.0\FirstApplication.deps.json
+D:\C Sharp\C-Sharp-\FirstApplication\bin\Debug\net10.0\FirstApplication.runtimeconfig.json
+D:\C Sharp\C-Sharp-\FirstApplication\bin\Debug\net10.0\FirstApplication.dll
+D:\C Sharp\C-Sharp-\FirstApplication\bin\Debug\net10.0\FirstApplication.pdb
+D:\C Sharp\C-Sharp-\FirstApplication\obj\Debug\net10.0\FirstApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp\C-Sharp-\FirstApplication\obj\Debug\net10.0\FirstApplication.AssemblyInfoInputs.cache
+D:\C Sharp\C-Sharp-\FirstApplication\obj\Debug\net10.0\FirstApplication.AssemblyInfo.cs
+D:\C Sharp\C-Sharp-\FirstApplication\obj\Debug\net10.0\FirstApplication.csproj.CoreCompileInputs.cache
+D:\C Sharp\C-Sharp-\FirstApplication\obj\Debug\net10.0\FirstApplication.sourcelink.json
+D:\C Sharp\C-Sharp-\FirstApplication\obj\Debug\net10.0\FirstApplication.dll
+D:\C Sharp\C-Sharp-\FirstApplication\obj\Debug\net10.0\refint\FirstApplication.dll
+D:\C Sharp\C-Sharp-\FirstApplication\obj\Debug\net10.0\FirstApplication.pdb
+D:\C Sharp\C-Sharp-\FirstApplication\obj\Debug\net10.0\FirstApplication.genruntimeconfig.cache
+D:\C Sharp\C-Sharp-\FirstApplication\obj\Debug\net10.0\ref\FirstApplication.dll
